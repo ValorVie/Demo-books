@@ -1,4 +1,4 @@
 # Fitness
 
 示範Github Page & Gitbook
-https://valorvie.github.io/Demo-books/
+https://books.valorvie.net/Demo-books/
